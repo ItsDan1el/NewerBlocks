@@ -1,1 +1,1 @@
-Donwload the mod at https://newerblocks.wixzite.com/english
+Donwload the mod at https://newerblocks.wixsite.com/english
