@@ -22,4 +22,4 @@
   
 # Issues
 - You can report bug/issues by using the [issue traker](https://github.com/ItsDan1el/NewerBlocks/issues)
-- Remember to use the issue format when reporting.
+- Remember to use the [report fortmat](https://github.com/ItsDan1el/NewerBlocks/blob/main/Report_Format.md#reporting-format) when reporting.
